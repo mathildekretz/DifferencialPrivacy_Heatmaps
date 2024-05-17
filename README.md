@@ -19,6 +19,8 @@ Implement the main classes used for the algorithms of the paper. Notations and o
 **User2.py and main2.py**
 Implement small changes for the extention of our work for the COVID 19 dataset
 
+## Acknowledgments
+
 This project was a group project, and was made possible thanks to the collaboration of :
 
 - **Mathilde Kretz**, *IASD Master Program 2023/2024 student, at PSL Research University*
